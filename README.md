@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Actualmente me encuentro en busca de nuevas oportunidades y aprendizajes en este basto mundo del desarrollo de software!
+### 🔭  Actualmente me encuentro en busca de nuevas oportunidades y aprendizajes en este basto mundo del desarrollo de software!
 <!--
 **CristianARAMOS/CristianARAMOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
